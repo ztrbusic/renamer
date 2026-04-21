@@ -9,10 +9,11 @@ I used this for my OneDrive batch rename (> 1000 directories). The OneDrive need
 2. Open _terminal_ and navigate to the downloaded repository with `cd`.
 3. Install virtual environment (venv) with `python -m venv .venv`.
 4. Activate your venv with `source .venv/bin/activate`.
-5. Install pip with `python3 -m pip install --upgrade pip ` and run `pip install -r requirements.txt to install external modules (just *Unidecode* so far).
+5. Install pip with `python3 -m pip install --upgrade pip ` and run `pip install -r requirements.txt` to install external modules (just *Unidecode* so far).
 
 ## Usage instructions
 `python3 renamer-main.py OPTION /path/to/dir`
+
 e.g.: `python3 renamer-main.py read /path/to/dir`
 
 ## Options:
