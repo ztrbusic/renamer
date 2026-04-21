@@ -1,2 +1,3 @@
 .venv/
 renamer-dir-list.txt
+.DS_Store
